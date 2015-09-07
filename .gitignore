@@ -1,0 +1,10 @@
+node_modules/**
+libs/ckeditor/*
+.idea/**
+npm-debug.log
+.project
+src/typescript/**/*.js
+src/typescript/**/*.js.map
+/build
+/statistics
+.buildpath
