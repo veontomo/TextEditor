@@ -14,8 +14,8 @@ var productionFileName = 'min.js';
 // each of these files is to be first compressed and then
 // all of these files are concatenated in a single file.
 var sourceFiles = [
-                   'src/js/typescript/Properties/IProperties.ts',
-                   'src/js/typescript/Properties/Properties.ts',
+                   'src/js/typescript/Property/IProperty.ts',
+                   'src/js/typescript/Property/Property.ts',
                    'src/js/typescript/Tags/Node.ts',
                    'src/js/typescript/Tags/Element.ts',
                    'src/typescript/Levenshtein.ts',
